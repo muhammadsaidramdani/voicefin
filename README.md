@@ -56,6 +56,15 @@ Aplikasi ini dikembangkan menggunakan teknologi berikut:
 
 ---
 
+## 7. Dokumen Pendukung
+
+Sebagai kelengkapan tugas, berikut disertakan laporan proyek dalam bentuk PDF:
+
+- **Laporan Hasil Percakapan AI (PDF)**  
+  👉 [Buka Dokumen](ARSIP_PERCAKAPAN_AI.pdf)
+
+---
+
 ## 6. Cara Menjalankan Aplikasi (Web)
 
 ```bash
