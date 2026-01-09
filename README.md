@@ -56,7 +56,7 @@ Aplikasi ini dikembangkan menggunakan teknologi berikut:
 
 ---
 
-## 7. Dokumen Pendukung
+## 6. Dokumen Pendukung
 
 Sebagai kelengkapan tugas, berikut disertakan laporan proyek dalam bentuk PDF:
 
@@ -65,7 +65,7 @@ Sebagai kelengkapan tugas, berikut disertakan laporan proyek dalam bentuk PDF:
 
 ---
 
-## 6. Cara Menjalankan Aplikasi (Web)
+## 7. Cara Menjalankan Aplikasi (Web)
 
 ```bash
 npm install
