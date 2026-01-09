@@ -47,7 +47,7 @@ Aplikasi ini dikembangkan menggunakan teknologi berikut:
 ## 5. Demo dan Akses Aplikasi
 
 - **Akses Web Aplikasi**  
-  👉 https://ISI-LINK-WEB-DI-SINI
+  👉 https://voicefinance.netlify.app
 
 - **Link Unduhan Aplikasi Android (APK)**  
   👉 https://ISI-LINK-DOWNLOAD-APK-DI-SINI
