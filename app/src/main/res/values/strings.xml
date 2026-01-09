@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VoiceFin</string>
+    <string name="title_activity_main">VoiceFin</string>
+    <string name="package_name">com.voicefin.app</string>
+    <string name="custom_url_scheme">com.voicefin.app</string>
+</resources>
