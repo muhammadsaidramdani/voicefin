@@ -50,7 +50,7 @@ Aplikasi ini dikembangkan menggunakan teknologi berikut:
   👉 https://voicefinance.netlify.app
 
 - **Link Unduhan Aplikasi Android (APK)**  
-  👉 https://ISI-LINK-DOWNLOAD-APK-DI-SINI
+  👉 https://drive.google.com/file/d/1Ro1JAURv5u3Tis32mpUhmYbmDZQ70xqe/view?usp=drivesdk
 
 > Catatan: Untuk menginstal APK, pengguna perlu mengaktifkan izin instalasi dari sumber tidak dikenal pada perangkat Android.
 
